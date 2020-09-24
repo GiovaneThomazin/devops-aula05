@@ -1,6 +1,4 @@
 # devopsaula5
-Nome : Israel Lopes Junior
-RA : 1903873
-Israel Lopes (teste)
-Teste2
-Teste novamente
+Nome : Giovane Thomazin
+RA : 1903712
+Giovane Teste
